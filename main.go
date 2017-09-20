@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/hehk/project_manager/cmd"
+import "github.com/hehk/pm/cmd"
 
 func main() {
 	cmd.Execute()
